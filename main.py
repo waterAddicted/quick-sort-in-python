@@ -22,7 +22,6 @@ def partitie(x,l,r):
 
 
 def quick_sort(x,l,r):
-    print(l,r)
     if l<r:
         
         pivot=int(partitie(x,l,r))
